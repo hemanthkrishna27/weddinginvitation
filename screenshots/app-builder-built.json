@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Hemanth & Mahima",
+      "hasCanvas": false,
+      "bodyTextLen": 86,
+      "bodyTextHash": "d82c0a0ee322b632fc157c8d8afc8613306a1934e33c3e0727f44cfab0f979ae",
+      "bodyTextPrefix": "A LETTER FOR YOU You are invited Hemanth & Mahima TAP THE SEAL T",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Hemanth & Mahima",
+      "hasCanvas": false,
+      "bodyTextLen": 86,
+      "bodyTextHash": "d82c0a0ee322b632fc157c8d8afc8613306a1934e33c3e0727f44cfab0f979ae",
+      "bodyTextPrefix": "A LETTER FOR YOU You are invited Hemanth & Mahima TAP THE SEAL T",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
