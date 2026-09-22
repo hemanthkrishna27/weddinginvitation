@@ -6,7 +6,7 @@ import appCss from "../styles.css?url";
 
 const APP_NAME = "Hemanth & Mahima";
 const DESCRIPTION =
-  "You are invited to the wedding of K. Hemanth and M. Mahima. Sunday, 22 November 2026 at Sree Chenbagavalli Auditorium, Payanam.";
+  "You are invited to the wedding of K. Hemanth and M. Mahima. 22.11.2026 at Sree Chenbagavalli Auditorium, Payanam.";
 
 export const Route = createRootRoute({
   head: () => ({

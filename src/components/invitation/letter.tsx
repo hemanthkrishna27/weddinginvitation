@@ -29,7 +29,7 @@ export function InvitationLetter() {
           <p className="mt-10 text-sm tracking-[0.28em] uppercase text-gold">
             {wedding.weekday}
           </p>
-          <p className="mt-2 text-3xl tracking-[0.18em] text-burgundy sm:text-4xl">
+          <p className="mt-3 font-serif text-4xl tracking-[0.12em] text-burgundy sm:text-5xl">
             {wedding.dateFormal}
           </p>
           <p className="mt-4 text-base text-muted">

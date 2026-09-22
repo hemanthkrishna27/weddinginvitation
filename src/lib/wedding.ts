@@ -8,8 +8,8 @@ export const wedding = {
   dateStartIso: "2026-11-22T00:00:00+05:30",
   weekday: "Sunday",
   dateShort: "22.11.2026",
-  dateDisplay: "Sunday, 22 November 2026",
-  dateFormal: "22.11.2026",
+  dateDisplay: "Sunday, 22.11.2026",
+  dateFormal: "22 / 11 / 2026",
   tamilBlessing: "உங்கள் வருகையே எங்களது பாக்கியம்",
   emails: ["hemanthk2798@gmail.com", "mahimamahesh678@gmail.com"] as const,
   venue: {
@@ -55,5 +55,5 @@ export function icsContent() {
     `DESCRIPTION:You are invited to the wedding of ${wedding.groomsName} and ${wedding.bridesName}.`,
     "END:VEVENT",
     "END:VCALENDAR",
-  ].join("\r\n");
+  ].join("\\r\\n");
 }
