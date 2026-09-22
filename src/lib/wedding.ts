@@ -55,5 +55,5 @@ export function icsContent() {
     `DESCRIPTION:You are invited to the wedding of ${wedding.groomsName} and ${wedding.bridesName}.`,
     "END:VEVENT",
     "END:VCALENDAR",
-  ].join("\\r\\n");
+  ].join("\r\n");
 }
